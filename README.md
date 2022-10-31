@@ -8,8 +8,7 @@ Right now, we’re in your first GitHub **repository**. A repository is like a f
 
 This repository contains three files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
-## Describe your project
-
+dfse
 
 [Learn more about READMEs](https://help.github.com/easdfsdfsdfsn/articles/about-readmes)
 
